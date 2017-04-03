@@ -12,11 +12,6 @@ A main method has been included to demonstrate the results.
 
 #Usage
 
-Input file to contain the following data
-Almada,120,300,14.0
-Alphine,200,400,0
-Allen,300,600,12.3
-Wells,120,90,16
-Georgio,160,240,22
+Input file refer data.txt
 
 Call the program as java CartesianProduct.java /inputfilepath/filename.txt
